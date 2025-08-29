@@ -1,7 +1,7 @@
 <h1 align="center">  ## Hi there 👋, I'm Ayush Peddulwar </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Application%20Security-High%20Priority-red" alt="Application Security">
+    <img src="https://img.shields.io/badge/-Application_Security-red?style=flat" alt="Application Security">
     <img src="https://img.shields.io/badge/Blue%20Team-4B9CD3?style=flat-square" alt="Blue Team">
 </p>
 
