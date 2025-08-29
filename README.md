@@ -1,4 +1,4 @@
-<h1 align="center">  ## Hi there 👋, I'm Ayush Peddulwar </h1>
+<h1 align="center">  Hi there 👋, I'm Ayush Peddulwar </h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Application_Security-red?style=flat" alt="Application Security">
